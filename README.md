@@ -29,3 +29,23 @@ Associated PX4 Ulog
 |---------|----------------|
 | Red     | [Link to ulog](https://review.px4.io/plot_app?log=f77f8f2a-dc55-4925-a73f-a9eb008a5414) | 
 | Lime    | [Link to ulog](https://review.px4.io/plot_app?log=59a67df6-4e09-4278-9c4b-985c04533c3d) | 
+
+
+
+
+
+### 3
+Description:  4 drones converging to a common waypoint. Note: Oscillations are due to drones being subjected to highly variable wind force
+
+https://github.com/user-attachments/assets/d70f01af-652c-4a7b-b61c-9dc426bb708f
+
+
+
+Associated PX4 Ulog
+
+| ID      | Ulog File Link | 
+|---------|----------------|
+| Red     | [Link to ulog](https://review.px4.io/plot_app?log=4cc3dd28-ad4b-42e8-a5f3-5905ed863beb)| 
+| Lime    | [Link to ulog](https://review.px4.io/plot_app?log=2b9c8401-eebf-40e1-a252-e4205fbbf8eb)| 
+| Aqua    | [Link to ulog](https://review.px4.io/plot_app?log=5c5c04a4-83e8-4b7f-92b9-520dbee59b59) | 
+| Fuchsia | [Link to ulog](https://review.px4.io/plot_app?log=f9659fcf-7df7-4d4b-9469-6c3423b9aef7) | 
